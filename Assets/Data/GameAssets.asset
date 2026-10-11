@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a63bf37d8a0e5f42aa3d8e9f54476c1, type: 3}
+  m_Name: GameAssets
+  m_EditorClassIdentifier: Assembly-CSharp::BlockCrush.GameAssets
+  splashBg: {fileID: 21300000, guid: c345d2e89702e5e44abfc969dcfe45c2, type: 3}
+  homeBg: {fileID: 21300000, guid: 27bcb62346a155a4fbe83a6a43c52eae, type: 3}
+  gameBg: {fileID: 21300000, guid: f70b5304e88cd7f4286e828117fdd493, type: 3}
+  gameOverBg: {fileID: 21300000, guid: 9120458afe13d1645b0ba98e1bf8ddf1, type: 3}
+  logo: {fileID: 21300000, guid: e54634d0d3fd41b48abf50ed85c9e5b8, type: 3}
+  panel: {fileID: 21300000, guid: a9fd47e492b04e747ba6f3c2c9e72f8e, type: 3}
+  buttonBlue: {fileID: 21300000, guid: 6345cf23b1f6c834b845e030039efb86, type: 3}
+  buttonYellow: {fileID: 21300000, guid: 959fff25bceb5b74da5f25204ffc7437, type: 3}
+  boardFrame: {fileID: 21300000, guid: 8f7cda67e40df5e4da4c4840ce134dd7, type: 3}
+  whiteSquare: {fileID: 21300000, guid: 43a6b7e3e3f3a0f419a6c18996691b02, type: 3}
+  whiteRound: {fileID: 21300000, guid: 9b9394454785eed46823d762f90e3671, type: 3}
+  iconCrown: {fileID: 21300000, guid: df0fcda4bb44e70408fe64ff6db1ff3a, type: 3}
+  iconGear: {fileID: 21300000, guid: 22d31df6364f3e34e9827fbf1138488e, type: 3}
+  iconHome: {fileID: 21300000, guid: 189558639b9b65649967f6fd622df06d, type: 3}
+  iconPlay: {fileID: 21300000, guid: 1b99750135a980b49846becf5a9a1bb5, type: 3}
+  iconSound: {fileID: 21300000, guid: 1f5a3e7daa6c9dc47ab1e03a46e79c5d, type: 3}
+  iconMusic: {fileID: 21300000, guid: e4f9f0c1e539029449d2d6e43d1fdec1, type: 3}
+  comboWord: {fileID: 21300000, guid: 5f52b92999459234e87b6345ddbcb41e, type: 3}
+  blockTiles:
+  - {fileID: 21300000, guid: 2c0f2a1ad77b5a744919fe1f1bc65b8d, type: 3}
+  - {fileID: 21300000, guid: ce634f77c248e86468c09d66da52743c, type: 3}
+  - {fileID: 21300000, guid: a0489b839687e5b478d25b3f0d9bf7cc, type: 3}
+  - {fileID: 21300000, guid: c3651ae0cd4eefb4281dd40aa0d973f8, type: 3}
+  - {fileID: 21300000, guid: 6f2f36ea439d0bb44815546d97619786, type: 3}
+  - {fileID: 21300000, guid: 08004994d05c554449682e332cd00111, type: 3}
+  - {fileID: 21300000, guid: d4b7e297e848a4a46958abc169ec32b9, type: 3}
+  - {fileID: 21300000, guid: 9ca602bbfa591a54c9711aed591f6ac5, type: 3}
+  grayTile: {fileID: 21300000, guid: a139f7cfc60ec4048998e523d16ca73b, type: 3}
+  fxGlow: {fileID: 21300000, guid: 01d6bc3072c671a44b094ebcf6fe5caa, type: 3}
+  fxSparkle: {fileID: 21300000, guid: acf9e5b8fc7d4e647879fb2f3cdce271, type: 3}
+  fontBold: {fileID: 12800000, guid: e742900ac9daf6047a8e0d4e4ab832d4, type: 3}
+  fontExtraBold: {fileID: 12800000, guid: c68053258c8402a44add25f6b3cae6bc, type: 3}
+  fontBlackItalic: {fileID: 12800000, guid: a9d697fb1f6984d40997519309e23ace, type: 3}
+  sfxPick: {fileID: 8300000, guid: 3c7030618d6f4654ba407dd86ef1c796, type: 3}
+  sfxPlace: {fileID: 8300000, guid: cf22e0a623ea4394ebfb3d4d345f5537, type: 3}
+  sfxClear: {fileID: 8300000, guid: dee027a28a740854488bb8cb94efa092, type: 3}
+  sfxCombo: {fileID: 8300000, guid: 71ff93cb0673e564bbe90272c47aa967, type: 3}
+  sfxInvalid: {fileID: 8300000, guid: f53fa3f651dd38c42b06e5cf929e899c, type: 3}
+  sfxButton: {fileID: 8300000, guid: 01650b91ca9c15241b9ff19a5e29f2f7, type: 3}
+  sfxSpawn: {fileID: 8300000, guid: 0050409243531bb4aaa1b952ec5101cf, type: 3}
+  sfxGameOver: {fileID: 8300000, guid: 942b9e84a1e4b1f419a1f5e32be03ec5, type: 3}
+  sfxNewBest: {fileID: 8300000, guid: a519f90385fd21d4abb8049c8fa42c54, type: 3}
+  music: {fileID: 8300000, guid: dc73a21d430ff1d4186ac0b03599f154, type: 3}
